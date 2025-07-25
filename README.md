@@ -29,7 +29,7 @@ This project is a comprehensive introduction to building modern web applications
 
 ---
 ## 📁 Project Structure
-
+<!-- 
 ```bash
 alx-project-0x02/
 ├── components/
@@ -63,7 +63,7 @@ alx-project-0x02/
 └── tsconfig.json
 
 
----
+--- -->
 
 ## 🧰 Tech Stack
 
