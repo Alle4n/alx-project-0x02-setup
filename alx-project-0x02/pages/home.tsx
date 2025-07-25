@@ -1,6 +1,7 @@
 import { useState } from "react";
 import PostModal from "@/components/common/PostModal";
 import Card from "@/components/common/Card";
+import Header from "@/components/layout/Header";
 
 const Home = () => {
   const [showModal, setShowModal] = useState(false);
@@ -11,6 +12,8 @@ const Home = () => {
   };
 
   return (
+    <>
+      <Header />
     <div className="p-6 space-y-4">
       <button
         onClick={() => setShowModal(true)}
@@ -29,6 +32,7 @@ const Home = () => {
         />
       )}
     </div>
+    </>
   );
 };
 
