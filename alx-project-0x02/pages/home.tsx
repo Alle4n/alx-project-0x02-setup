@@ -22,7 +22,11 @@ const Home = () => {
         <Card key={i} title={post.title} content={post.content} />
       ))}
       {showModal && (
-        <PostModal onClose={() => setShowModal(false)} onSubmit={handleAddPost} />
+        <PostModal
+          isOpen={showModal}
+          onClose={() => setShowModal(false)}
+          onSubmit={handleAddPost}
+        />
       )}
     </div>
   );
