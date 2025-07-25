@@ -28,38 +28,6 @@ This project is a comprehensive introduction to building modern web applications
 - 🧼 ESLint and code formatting
 
 ---
-## 📁 Project Structure
-alx-project-0x02/
-├── components/
-│ ├── common/
-│ │ ├── Button.tsx
-│ │ ├── Card.tsx
-│ │ ├── PostCard.tsx
-│ │ ├── PostModal.tsx
-│ │ └── UserCard.tsx
-│ └── layout/
-│ └── Header.tsx
-├── interfaces/
-│ └── index.ts
-├── pages/
-│ ├── _app.tsx
-│ ├── _document.tsx
-│ ├── about.tsx
-│ ├── home.tsx
-│ ├── index.tsx
-│ ├── posts.tsx
-│ └── users.tsx
-├── public/
-│ └── assets/
-│ └── images/
-├── styles/
-│ └── globals.css
-├── .eslintrc.json
-├── next.config.js
-├── package.json
-├── README.md
-└── tsconfig.json
-
 ## 🧰 Tech Stack
 
 | Technology                                                                 | Purpose                                        |
@@ -69,6 +37,41 @@ alx-project-0x02/
 | [Tailwind CSS](https://tailwindcss.com/)                                   | Utility-first CSS framework                    |
 | [ESLint](https://eslint.org/)                                              | Code linting and style enforcement             |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/)                   | Free mock API for prototyping and testing      |
+
+---
+## 📁 Project Structure
+
+```bash
+alx-project-0x02/
+├── components/
+│   ├── common/
+│   │   ├── Button.tsx
+│   │   ├── Card.tsx
+│   │   ├── PostCard.tsx
+│   │   ├── PostModal.tsx
+│   │   └── UserCard.tsx
+│   └── layout/
+│       └── Header.tsx
+├── interfaces/
+│   └── index.ts
+├── pages/
+│   ├── _app.tsx
+│   ├── _document.tsx
+│   ├── about.tsx
+│   ├── home.tsx
+│   ├── index.tsx
+│   ├── posts.tsx
+│   └── users.tsx
+├── public/
+│   └── assets/
+│       └── images/
+├── styles/
+│   └── globals.css
+├── .eslintrc.json
+├── next.config.js
+├── package.json
+├── README.md
+└── tsconfig.json
 
 
 ---
@@ -80,3 +83,7 @@ alx-project-0x02/
 ```bash
 git clone https://github.com/Alle4n/alx-project-0x02-setup.git
 cd alx-project-0x02/alx-project-2
+
+
+----
+
