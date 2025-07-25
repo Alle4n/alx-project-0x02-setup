@@ -10,9 +10,6 @@ This project is a comprehensive introduction to building modern web applications
 - [📁 Project Structure](#-project-structure)
 - [🧰 Tech Stack](#-tech-stack)
 - [✅ Setup Instructions](#-setup-instructions)
-- [🏗️ Implementation Overview](#-implementation-overview)
-- [🖼️ Screenshots](#️-screenshots)
-- [📄 License](#-license)
 
 ---
 
