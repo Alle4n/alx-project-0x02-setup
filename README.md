@@ -67,13 +67,14 @@ alx-project-0x02/
 
 ## 🧰 Tech Stack
 
-| Technology        | Purpose                                         |
-|------------------|-------------------------------------------------|
-| [Next.js](https://nextjs.org/)        | React framework for server-side rendering |
-| [TypeScript](https://www.typescriptlang.org/) | Type-safe JavaScript development       |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework            |
-| [ESLint](https://eslint.org/)         | Code quality and linting               |
-| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Fake API for prototyping     |
+| Technology                                                                 | Purpose                                        |
+|----------------------------------------------------------------------------|------------------------------------------------|
+| [Next.js](https://nextjs.org/)                                             | React framework for server-side rendering      |
+| [TypeScript](https://www.typescriptlang.org/)                              | Strongly typed JavaScript for better safety    |
+| [Tailwind CSS](https://tailwindcss.com/)                                   | Utility-first CSS framework                    |
+| [ESLint](https://eslint.org/)                                              | Code linting and style enforcement             |
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com/)                   | Free mock API for prototyping and testing      |
+
 
 ---
 
