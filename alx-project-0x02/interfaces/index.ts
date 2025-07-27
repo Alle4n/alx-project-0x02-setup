@@ -17,6 +17,5 @@ export interface ButtonProps {
 export interface PostProps {
   id: number;
   title: string;
-  body: string;
-  userId: number;
+  content: string;
 }
